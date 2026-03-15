@@ -1,0 +1,45 @@
+
+ERSİN GÜZEL OTOMOTİV - SEO & İÇERİK STRATEJİSİ
+
+1. SİTE MİMARİSİ
+- / (Anasayfa)
+- /hakkimizda
+- /hizmetler
+- /hizmetler/periyodik-bakim
+- /hizmetler/motor-mekanik
+- /hizmetler/oto-elektrik
+- /hizmetler/fren-suspansiyon
+- /hizmetler/klima-bakim
+- /hizmetler/lastik-rot-balans
+- /galeri
+- /blog
+- /sss
+- /iletisim
+
+2. META TAG ÖRNEKLERİ
+- Anasayfa: 
+  Title: Ersin Güzel Otomotiv - Profesyonel Oto Servis & Periyodik Bakım
+  Desc: İstanbul Maslak'ta uzman oto servis hizmeti. Periyodik bakım, motor mekanik, klima gaz dolumu ve fren onarımı için güvenilir adres. Hemen randevu alın!
+
+- Periyodik Bakım:
+  Title: Periyodik Bakım Hizmeti | Ersin Güzel Otomotiv Maslak
+  Desc: Aracınızın ömrünü uzatan profesyonel periyodik bakım. Yağ değişimi, filtre kontrolü ve 20+ nokta check-up uygun fiyatlarla Ersin Güzel Otomotiv'de.
+
+3. BLOG İÇERİK PLANI (12 Konu)
+1. "Araba Bakımı Kaç KM'de Yapılmalı?" - Hedef: Periyodik bakım aralığı
+2. "Fren Balatasının Bittiği Nasıl Anlaşılır?" - Hedef: Fren balatası belirtileri
+3. "Klima Gazı Dolumu Hakkında Her Şey" - Hedef: Klima gazı fiyatı istanbul
+4. "Motor Yağı Neden Kararır?" - Hedef: Motor yağı değişimi önemi
+5. "Akü Ömrünü Uzatmanın 5 Yolu" - Hedef: Akü bakımı tavsiyeleri
+6. "Triger Kayışı Ne Zaman Değişmeli?" - Hedef: Triger seti değişimi
+7. "Arıza Lambası Yanınca Yapılması Gerekenler" - Hedef: Araç arıza kodları
+8. "Yol Tutuşunu Artıran Rot Balans Ayarı" - Hedef: Rot balans ayarı nedir
+9. "Hangi Antifriz Aracınız İçin Uygun?" - Hedef: Antifriz seçimi rehberi
+10. "Baskı Balata Kaçırmak Ne Demektir?" - Hedef: Debriyaj seti arızası
+11. "Araç Kış Hazırlığı Kontrol Listesi" - Hedef: Kışlık araç bakımı
+12. "Süspansiyon Sistemindeki Seslerin Sebepleri" - Hedef: Amortisör tamiri istanbul
+
+4. LOCAL SEO ODAKLARI
+- Google Business Profile (GBP) optimizasyonu için NAP (Name, Address, Phone) tutarlılığı.
+- "Maslak oto servis", "Sarıyer oto bakım", "İstanbul periyodik bakım fiyatları" gibi anahtar kelimelerin sayfa başlıklarında (H2-H3) kullanımı.
+- LocalBusiness Schema (App.tsx içinde uygulandı).

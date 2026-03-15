@@ -1,0 +1,7 @@
+{
+  "name": "Ersin Güzel Otomotiv - Kurumsal Web Sitesi",
+  "description": "Profesyonel oto servis, bakım ve onarım hizmetleri sunan Ersin Güzel Otomotiv için SEO odaklı, hızlı ve modern kurumsal web sitesi.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
